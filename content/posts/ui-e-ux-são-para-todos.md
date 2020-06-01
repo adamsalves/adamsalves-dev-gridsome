@@ -3,12 +3,11 @@ title: UI e UX são para todos!
 date: 2020-06-01T23:36:48.950Z
 published: true
 tags:
-  - tag
   - UX
   - UI
 cover_image: /images/uploads/uiux-6643e2d6044bec0b7dbb1754f6a4d7c6-9f6e6.png
-description: "### Não deixe de aplicar boas práticas por não ser uma grande
-  empresa ou um produto reconhecido"
+description: Não deixe de aplicar boas práticas por não ser uma grande empresa
+  ou um produto reconhecido
 ---
 Sempre fico de olho no resumo semanal de “ocorrências em resultados de pesquisa” no[meu perfil do LinkedIn](https://www.linkedin.com/in/adams-alves/). Vejo a lista, entro na página e também visito o site das empresas em busca de informações.
 
