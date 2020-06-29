@@ -5,6 +5,10 @@
         {{ $page.post.title }}
       </h1>
 
+      <p class="post-title__description">
+        {{ $page.post.description }}
+      </p>
+
       <PostMeta :post="$page.post" />
 
     </div>
