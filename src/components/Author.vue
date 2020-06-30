@@ -49,6 +49,7 @@ export default {
 
 	&__intro {
 		opacity: .8;
+		margin-top: .5em;
 	}
 
 	&__site-title {
